@@ -1,0 +1,9 @@
+canvus_menu {
+    overflow: hidden;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: 10;
+    min-height: 80px;
+    width: 100%;
+}
